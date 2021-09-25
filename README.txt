@@ -213,3 +213,10 @@ ________________________________________________________________________________
 Extra
 
 To correct the Alt and Cmd keys just swap the option and cmd modifier keys in the keyboard section in System Preferences.
+
+
+Sources: 
+https://www.tonymacx86.com/threads/guide-dell-inspiron-15-7559-skylake.260876/
+
+https://github.com/xukinser/dell-inspiron-7559-i5-mojave
+(Used to get correct clover version which is CRUCIAL / v4920)
